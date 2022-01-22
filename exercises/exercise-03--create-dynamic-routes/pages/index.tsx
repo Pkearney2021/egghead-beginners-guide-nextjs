@@ -6,13 +6,13 @@ const Home = () => {
       <h2>My favorite music genres:</h2>
       <ul>
         <li>
-          <Link href="/rock">Rock</Link>
+          <Link href="/rock/Axel">Rock</Link>
         </li>
         <li>
-          <Link href="/country">Country</Link>
+          <Link href="/country/Woody">Country</Link>
         </li>
         <li>
-          <Link href="/pop">Pop</Link>
+          <Link href="/pop/noidea">Pop</Link>
         </li>
       </ul>
     </div>
