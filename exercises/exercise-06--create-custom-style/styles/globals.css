@@ -1,9 +1,9 @@
 html,
 body {
-  /* ✍️ Define the layout
-    - set the padding and margin to 0
-    - set the font family to sans-serif
-    - set the max width to 1280px
-    - set the left and right margins to auto
-  */
+  padding: 0;
+  margin: 0;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: sans-serif;
+  max-width: 1280px;
 }
